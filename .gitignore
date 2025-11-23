@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+#dataset
+.dataset
+
+#articles
+.article
+
+# scenario
+.ML_Final_Project.pdf
