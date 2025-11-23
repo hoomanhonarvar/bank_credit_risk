@@ -208,10 +208,10 @@ __marimo__/
 
 
 #dataset
-./dataset
+dataset/
 
 #articles
-.article
+article/
 
 # scenario
-.ML_Final_Project.pdf
+ML_Final_Project.pdf
